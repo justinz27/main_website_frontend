@@ -85,7 +85,7 @@
     })
 </script>
 
-<section class="relative w-full overflow-hidden bg-black text-white">
+<section id="upcoming-events" class="relative w-full scroll-mt-24 overflow-hidden bg-black text-white">
     <img
         src={ContactUsBackground}
         alt=""
