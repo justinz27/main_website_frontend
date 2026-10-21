@@ -1,11 +1,6 @@
 from rest_framework import serializers
-from .models import Item, BlogItem
+from .models import BlogItem
 
-
-class ItemSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = Item
-        fields = '__all__'
 
 class BlogItemSerializer(serializers.ModelSerializer):
     class Meta:

@@ -6,8 +6,8 @@ from rest_framework.response import Response
 from rest_framework.permissions import AllowAny, IsAuthenticatedOrReadOnly
 
 from .calendar_events import get_upcoming_events_payload
-from .models import Item, BlogItem
-from .serializers import ItemSerializer, BlogItemSerializer, BlogItemShortSerializer
+from .models import BlogItem
+from .serializers import BlogItemSerializer, BlogItemShortSerializer
 
 def hello_world(request):
     return JsonResponse({"message": "Hello World"})
@@ -18,10 +18,6 @@ def hello_world(request):
 def upcoming_events(request):
     return Response(get_upcoming_events_payload())
 
-
-class ItemViewSet(viewsets.ModelViewSet):
-    queryset = Item.objects.all()
-    serializer_class = ItemSerializer
 
 # All the other routes are handled by Django already so like regular GET, PUT, POST, DELETE
 class BlogItemViewSet(viewsets.ModelViewSet):
