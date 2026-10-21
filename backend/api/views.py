@@ -1,15 +1,23 @@
 from django.shortcuts import get_object_or_404
 from rest_framework import viewsets
 from django.http import JsonResponse
-from rest_framework.decorators import action
+from rest_framework.decorators import action, api_view, permission_classes
 from rest_framework.response import Response
-from rest_framework.permissions import IsAuthenticatedOrReadOnly
+from rest_framework.permissions import AllowAny, IsAuthenticatedOrReadOnly
 
+from .calendar_events import get_upcoming_events_payload
 from .models import Item, BlogItem
 from .serializers import ItemSerializer, BlogItemSerializer, BlogItemShortSerializer
 
 def hello_world(request):
     return JsonResponse({"message": "Hello World"})
+
+
+@api_view(["GET"])
+@permission_classes([AllowAny])
+def upcoming_events(request):
+    return Response(get_upcoming_events_payload())
+
 
 class ItemViewSet(viewsets.ModelViewSet):
     queryset = Item.objects.all()
