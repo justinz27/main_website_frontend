@@ -1,0 +1,5 @@
+# bruh this sucks, but this is for local dev
+services:
+  web:
+    volumes:
+      - .:/app

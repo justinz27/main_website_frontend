@@ -20,5 +20,4 @@ RUN pip install --upgrade pip \
 # Copy project
 COPY . /app/
 
-# Compose overrides this for migrate / web. Kept as a sensible image default.
 CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]

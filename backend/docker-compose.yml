@@ -15,34 +15,14 @@ services:
       retries: 30
       start_period: 5s
 
-  # One-shot: runs after Postgres is healthy, then exits.
-  migrate:
-    build: .
-    command: ["python", "manage.py", "migrate", "--noinput"]
-    env_file:
-      - .env
-    volumes:
-      - .:/app
-    environment:
-      - DJANGO_DB_HOST=db
-      - DJANGO_DB_NAME=postgres
-      - DJANGO_DB_USER=postgres
-      - DJANGO_DB_PASSWORD=postgres
-    depends_on:
-      db:
-        condition: service_healthy
-    restart: "no"
-
   web:
     build: .
     command:
       - sh
       - -c
-      - python manage.py collectstatic --noinput && python manage.py runserver 0.0.0.0:8000
+      - python manage.py collectstatic --noinput && python manage.py migrate --noinput && python manage.py runserver 0.0.0.0:8000
     env_file:
       - .env
-    volumes:
-      - .:/app
     ports:
       - "8000:8000"
     environment:
@@ -53,8 +33,6 @@ services:
     depends_on:
       db:
         condition: service_healthy
-      migrate:
-        condition: service_completed_successfully
 
 volumes:
   postgres_data:
