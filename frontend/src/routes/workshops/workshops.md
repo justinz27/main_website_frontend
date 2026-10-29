@@ -6,6 +6,7 @@
 -   Term 1 Week 10 - Graph Theory I: [slides](programming/2026/t1w10.pdf), [problemset](https://vjudge.net/contest/806361), [stream](https://www.youtube.com/watch?v=Hp5dzllwnrM)
 -   Term 2 Week 2 - Dynamic Programming II: [slides](programming/2026/t2w2.pdf), [problemset](https://vjudge.net/contest/821604)
 -   Term 2 Week 5 - DS++: [slides](programming/2026/t2w5.pdf), [problemset](https://vjudge.net/contest/826177), [code (template)](programming/2026/seg.cpp), [code (MNASS)](programming/2026/mnass.cpp)
+-   Term 3 Week 5 - Nonstandard Problems: [slides](programming/2026/t3w5.pdf)
 
 # Mathematics 2026
 -   Term 1 Week 2 - Intro to Quant:
@@ -67,6 +68,14 @@
 -   Term 2 Week 11 - MATH3611 Revision Seminar:
     [slides](mathematics/2026/MATH36115705%20Seminar%202026%203.0.pdf),
     [recording](https://www.youtube.com/live/ymA1-y3p098)
+-   Term 3 Week 1 - The Point of Parallel Lines: The Intersection of Geometry and Rendering
+    [slides](mathematics/2026/The%20Point%20of%20Parallel%20Lines%20The%20Intersection%20of%20Geometry%20and%20Rendering.pdf),
+    [recording](https://www.youtube.com/live/iuX6nZS2DHg)
+-   Term 3 Week 4 - Functional Equations:
+    [slides](mathematics/2026/Functional%20Equations%20Slides.pdf),
+    [problems](mathematics/2026/Functional%20Equations%20Worksheet.pdf),
+    [solutions](mathematics/2026/Functional%20Equations%20Solutions.pdf),
+    [recording](https://www.youtube.com/watch?v=XsZexehy4pA)
 -   Term 3 Week 7 - Integration Workshop
     [slides](mathematics/2026/2026_CPMSoc_Integration.pdf),
     [worksheet](Workshop_Worksheets_CPMSoc_Math_2026.pdf),

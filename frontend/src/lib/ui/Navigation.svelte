@@ -19,16 +19,22 @@
 
     const events: { title: string; href: string; description: string }[] = [
         {
-            title: "Workshops",
-            href: "/workshops",
+            title: "Upcoming Events",
+            href: "/#upcoming-events",
             description:
-                "Course revision, CP concepts, and seminars on math and computing"
+                "CPMSoc's upcoming workshops, events and activities"
         },
         {
-            title: "Competitions",
+            title: "Past Workshops",
+            href: "/workshops",
+            description:
+                "Past workshop resources"
+        },
+        {
+            title: "Past Competitions",
             href: "/competitions",
             description:
-                "ICPC, SMMC and other competitions held throughout the year"
+                "Past competition outcomes and resources"
         },
     ];
 
@@ -44,6 +50,12 @@
             href: "/constitution",
             description:
                 "The official constitution of CPMSoc UNSW"
+        },
+        {
+            title: "Grievances",
+            href: "/grievances",
+            description:
+                "Our grievance resolution policy and form"
         },
         {
             title: "Sponsors",

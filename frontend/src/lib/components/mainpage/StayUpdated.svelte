@@ -1,12 +1,18 @@
 <script lang="ts">
+    import { onMount } from 'svelte'
+    import axios from 'axios'
+    import { env } from '$env/dynamic/public'
     import Stay_Updated from '$lib/assets/stayupdated/BackgroundStayUpdated.webp'
     import Sand_Solid_Colour_Stay_Updated from '$lib/assets/stayupdated/SandSolidColourStayUpdated.webp'
 
     import Paper_Swan from '$lib/assets/stayupdated/PaperSwan.webp'
     import Paper_Swan_Background from '$lib/assets/stayupdated/PaperSwanBackground.webp'
 
+    const API_BASE = env.PUBLIC_API_BASE_URL
+
     let tiltX = $state(0);
     let tiltY = $state(0);
+    let googleCalendarUrl = $state('')
 
     const handleMouseMove = (e: MouseEvent) => {
         if (e == null || !e.currentTarget) { return }
@@ -24,6 +30,16 @@
         tiltX = 0;
         tiltY = 0;
     }
+
+    onMount(async () => {
+        if (!API_BASE) return
+        try {
+            const response = await axios.get(`${API_BASE}/api/events/upcoming/`)
+            googleCalendarUrl = response.data?.subscribe?.google ?? ''
+        } catch {
+            googleCalendarUrl = ''
+        }
+    })
 </script>
 
 <div class="relative flex w-full md:h-[750px] h-[800px] items-center overflow-hidden justify-center p-[20px]">
@@ -137,14 +153,16 @@
                         Instagram
                     </a>
 
-                    <a
-                            href="https://calendar.google.com/calendar/u/0/r?cid=Y19mNDVmMzdjOGQzM2U2MGNlMDE4ZmMwZWU2MjcyNDdkN2Y3ODI3NDFmMmZiNmRjYjIxYjA5ZWU4YjRlYWY1YTFjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"
-                            target="_blank"
-                            rel="noreferrer noopener"
-                            class="bg-[#1a1a1a] text-white font-mono text-sm py-2 px-4 hover:bg-black transition-colors"
-                    >
-                        Google Calendar
-                    </a>
+                    {#if googleCalendarUrl}
+                        <a
+                                href={googleCalendarUrl}
+                                target="_blank"
+                                rel="noreferrer noopener"
+                                class="bg-[#1a1a1a] text-white font-mono text-sm py-2 px-4 hover:bg-black transition-colors"
+                        >
+                            Google Calendar
+                        </a>
+                    {/if}
 
                     <a
                             href="https://discord.com/invite/9uxgxHY3pP"

@@ -25,6 +25,7 @@
             items: [
                 { name: "Contact", href: "/contact" },
                 { name: "Constitution", href: "/constitution" },
+                { name: "Grievances", href: "/grievances" },
                 { name: "Sponsors", href: "/sponsors" }
             ]
         }

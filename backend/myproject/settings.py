@@ -126,6 +126,14 @@ USE_I18N = True
 
 USE_TZ = True
 
+# Local-memory cache is enough for a single-process Docker deploy;
+# upcoming events refresh lazily every 6 hours.
+CACHES = {
+    'default': {
+        'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
+        'LOCATION': 'cpmsoc-default',
+    }
+}
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/6.0/howto/static-files/

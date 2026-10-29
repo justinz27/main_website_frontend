@@ -1,31 +1,38 @@
 services:
+  db:
+    image: postgres:16
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    # No host ports — only reachable on the compose network as `db:5432`.
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d postgres"]
+      interval: 2s
+      timeout: 5s
+      retries: 30
+      start_period: 5s
+
   web:
     build: .
-    command: sh -c "python manage.py collectstatic --noinput && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+    command:
+      - sh
+      - -c
+      - python manage.py collectstatic --noinput && python manage.py migrate --noinput && python manage.py runserver 0.0.0.0:8000
     env_file:
       - .env
-    volumes:
-      - .:/app
     ports:
       - "8000:8000"
-    depends_on:
-      - db
     environment:
       - DJANGO_DB_HOST=db
       - DJANGO_DB_NAME=postgres
       - DJANGO_DB_USER=postgres
       - DJANGO_DB_PASSWORD=postgres
-
-  db:
-    image: postgres:16
-    volumes:
-      - postgres_data:/var/lib/postgresql/data/
-    ports:
-      - "5432:5432"
-    environment:
-      - POSTGRES_DB=postgres
-      - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=postgres
+    depends_on:
+      db:
+        condition: service_healthy
 
 volumes:
   postgres_data:

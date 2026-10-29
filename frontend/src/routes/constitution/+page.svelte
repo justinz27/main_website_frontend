@@ -7,39 +7,39 @@
         Constitution
     </h1>
 
-    <h2 class="text-4xl font-bold text-[#5b8ddb] mt-5">
+    <h2 class="text-3xl font-bold text-[#5b8ddb] mt-5">
         1. Introduction
     </h2>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         1.1 The official name of the club shall be ‘UNSW Competitive Programming and Mathematics Society’.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         1.2 The club shall be affiliated with Arc.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         1.3 The aims and objectives of the club are to:
     </h3>
 
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
         <li>1.3.1 Foster a community of students who are interested in competitive programming and/or competitive mathematics;</li>
         <li>1.3.2 Host regular competitions and workshops to challenge students and improve their problem solving skills; and</li>
         <li>1.3.3 Encourage more students to get involved in competitive programming/mathematics.</li>
     </ul>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         1.4 In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N. E. Renton shall apply.
     </h3>
 
-    <h2 class="text-4xl font-bold text-[#5b8ddb] mt-5">
+    <h2 class="text-3xl font-bold text-[#5b8ddb] mt-5">
         Definitions
     </h2>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         1.5 For the purposes of this Constitution:
     </h3>
 
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
         <li>1.5.1 The University shall mean the University of New South Wales;</li>
         <li>1.5.2 Arc shall mean Arc @ UNSW Limited;</li>
         <li>1.5.3 Members shall mean full members of the club;</li>
@@ -51,33 +51,33 @@
         <li>1.5.9 Subjects shall mean units of study offered by the University in progression to the award of a degree.</li>
     </ul>
 
-    <h2 class="text-4xl font-bold text-[#5b8ddb] mt-5">
+    <h2 class="text-3xl font-bold text-[#5b8ddb] mt-5">
         2. Membership
     </h2>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         2.1 Contact details for members of the club are to remain with the Executive and Arc to have sole access. Contact details are not to be given or sold to any other person.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
-        2.2 Full membership of the club shall be open to all UNSW students, and they shall be required to complete a membership form.
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
+        2.2 Full membership of the club shall be open to all UNSW students, and they shall be required to complete a membership form on Rubric.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
-        2.3 Associate membership shall be open to those UNSW students who are ineligible for membership, as well as UNSW alumni and current UNSW staff, provided that they complete a membership form prepared by the club Executive.
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
+        2.3 Associate membership shall be open to those UNSW students who are ineligible for membership, as well as UNSW alumni and current UNSW staff, provided that they complete a membership form on Rubric.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
-        2.4 The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
+        2.4 A person's membership commences on the day they complete the membership form on Rubric and remains valid until the end of Week Three of Term One of the following calendar year.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         2.5 The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         2.6 Notwithstanding clause 2.9, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 4.7.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         2.7 Notwithstanding clauses 2.8 and 2.9, a member or associate member of a club may have their membership terminated after the following procedure is followed:
     </h3>
 
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
         <li>2.7.1 A motion is carried by the Executive, or the Executive is petitioned by twenty (20) members to instigate impeachment proceedings;</li>
         <li>2.7.2 The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 5.8;</li>
         <li>2.7.3 The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting.</li>
@@ -85,10 +85,10 @@
         <li>2.7.5 The motion is carried by the Extraordinary General Meeting.</li>
     </ul>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         2.8 Notwithstanding clause 2.9, an Executive, a member or associate member of a Club may have their membership terminated if the following occurs:
     </h3>
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
         <li>2.8.1 The person in question has acted in a way that has sabotaged the functions of the Club or disregarded the Constitution to the detriment of the Club’s membership; and/or,</li>
         <li>2.8.2 The person in question has instigated instances of bullying, harassment, assault and/or gendered violence to one or multiple individuals.</li>
         <li>2.8.3 The Club has liaised with Arc about the person in question and Arc has determined the issue is of a serious nature.</li>
@@ -108,59 +108,59 @@
         <li>2.8.8 The motion is carried by the General Meeting.</li>
     </ul>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         2.9 Any member of a Club or Club Executive who believes they have been wrongly expelled may appeal to the Clubs Tribunal, who will arrive at the final resolution of the matter.
     </h3>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         2.10 Appeals must be submitted in writing within seven (7) days of receiving the penalty and must include a justification for seeking an appeal.
     </h3>
 
-    <h2 class="text-4xl font-bold text-[#5b8ddb] mt-5">
+    <h2 class="text-3xl font-bold text-[#5b8ddb] mt-5">
         3. Not-for-profit clause
     </h2>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         3.1 The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
     </h3>
 
-    <h2 class="text-4xl font-bold text-[#5b8ddb] mt-5">
+    <h2 class="text-3xl font-bold text-[#5b8ddb] mt-5">
         4. Executive
     </h2>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         4.1 The Executive of the club shall be elected from the full members at the Annual General Meeting and shall consist of:
     </h3>
 
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
-        <li>4.1.1 Two Co-Presidents;</li>
-        <li>4.1.2 A Secretary;</li>
-        <li>4.1.3 A Treasurer;</li>
-        <li>4.1.4 An Arc Delegate; and</li>
-        <li>4.1.5 A Welfare Officer.</li>
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
+        <li>4.1.1 A President;</li>
+        <li>4.1.2 A Vice-President of Technicals;</li>
+        <li>4.1.3 A Vice-President of Operations;</li>
+        <li>4.1.4 A Secretary;</li>
+        <li>4.1.5 A Treasurer; and</li>
+        <li>4.1.6 A Welfare Officer.</li>
     </ul>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         4.2 The term of office for each executive shall begin on the first day after the UNSW Term 3 Exam Period in the year in which they are elected, and continue until the corresponding day in the following year.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
-        4.3 Each member is permitted to hold up to two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the following exceptions:
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
+        4.3 Each member is permitted to hold up to two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the following restrictions:
     </h3>
 
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
-        <li>4.3.1 The positions of the two Co-Presidents must be held by two distinct people; and</li>
-        <li>4.3.2 No single person may simultaneously hold the positions of Co-President and Treasurer.</li>
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
+        <li>4.3.1 The President position, the two Vice-President positions, and the Treasurer position must be held by four distinct people; </li>
     </ul>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         4.4 Job sharing of any Executive position is not permitted.
     </h3>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         4.5 The Executive shall be responsible for the following duties:
     </h3>
 
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
         <li>4.5.1 The activities of the club;</li>
         <li>4.5.2 The finances of the club;</li>
         <li>4.5.3 Appointing members to the Committee;
@@ -171,15 +171,15 @@
         <li>4.5.4 The maintenance and review of policies & procedures of the Club, including its Grievance Resolution Policy & Procedure.</li>
     </ul>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         4.6 The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting.
     </h3>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         4.7 Any member of the Executive shall have their position declared vacant if they:
     </h3>
 
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
         <li>4.7.1 Die;</li>
         <li>4.7.2 Cease to be a member of the club;</li>
         <li>4.7.3 Cease to be a UNSW student; or</li>
@@ -187,25 +187,25 @@
         <li>4.7.5 Are absent from any three (3) consecutive meetings of the Club without apology or leave</li>
     </ul>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         4.8 Any member of the Committee shall have their position declared vacant if they:
     </h3>
 
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
         <li>4.8.1 Meet the criteria outlined in section 2.7, 2.8 or 4.7;</li>
         <li>4.8.2 Are removed from their role by majority vote of the executive.</li>
     </ul>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         4.9 Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 5.
     </h3>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         4.10 Duties of the following Executive positions shall include but not be limited to:
     </h3>
 
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
-        <li>4.10.1 Co-Presidents
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
+        <li>4.10.1 President
             <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
                 <li>To chair all club, Committee, General and Annual General Meetings (held during their term) of the club;</li>
                 <li>To oversee and coordinate the activities and administration of the club;</li>
@@ -227,16 +227,37 @@
                 <li>To pass on their knowledge to their successors.</li>
             </ol>
         </li>
-        <li>4.10.2 Secretary
+        <li>4.10.2 Vice-President of Technicals
+            <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
+                <li>To oversee and coordinate the activities and administration of technical aspects of the club, including workshops and competitions;</li>
+                <li>To plan and aid in building and maintaining the infrastructure of the society with fellow Executive members and Club members;</li>
+                <li>To liaise with departments of the University where necessary for the longevity of club activities; and</li>
+                <li>To pass on their knowledge to their successors.</li>
+            </ol>
+        </li>
+        <li>4.10.3 Vice-President of Operations
+            <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
+                <li>To oversee and coordinate the activities and administration of community related-aspects of the club, including social events, career-related events and marketing; </li>
+                <li>To liaise with sponsors where necessary for the longevity of club activities; and</li>
+                <li>To pass on their knowledge to their successors.</li>
+            </ol>
+        </li>
+        <li>4.10.4 Secretary
             <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
                 <li>To be responsible for receiving and replying to all correspondence on behalf of the club;</li>
                 <li>To organise meetings, agendas (in consultation with the Co-Presidents), and minutes;</li>
                 <li>To keep relevant club papers in order;</li>
-                <li>To coordinate elections; and</li>
+                <li>To coordinate elections;</li>
                 <li>To maintain the membership list, updating when changes are made.</li>
+                <li>To be aware of the Arc funding system, its requirements and its possibilities for the club;</li>
+                <li>To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc.);</li>
+                <li>To liaise with Arc and the club’s Executive;</li>
+                <li>To have a good working knowledge of Arc forms;</li>
+                <li>To collect mail on behalf of the Club from the Arc Clubs Space at least every two weeks; and</li>
+                <li>To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).</li>
             </ol>
         </li>
-        <li>4.10.3 Treasurer
+        <li>4.10.5 Treasurer
             <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
                 <li>To keep and maintain all club financial records;</li>
                 <li>To hold petty cash tins etc.;</li>
@@ -256,17 +277,7 @@
                 <li>To ensure that under no circumstances are any expenses to be met without documentation.</li>
             </ol>
         </li>
-        <li>4.10.4 Arc Delegate
-            <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
-                <li>To be aware of the Arc funding system, its requirements and its possibilities for the club;</li>
-                <li>To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc.);</li>
-                <li>To liaise with Arc and the club’s Executive;</li>
-                <li>To have a good working knowledge of Arc forms;</li>
-                <li>To collect mail on behalf of the Club from the Arc Clubs Space at least every two weeks; and</li>
-                <li>To attend Arc Clubs Briefings or nominate a fellow club member to attend on their behalf, or send apologies in advance (taking the form of an email detailing their name, club, and the date of the meeting they cannot attend).</li>
-            </ol>
-        </li>
-        <li>4.10.5 Welfare Officer
+        <li>4.10.6 Welfare Officer
             <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
                 <li>To foster an inclusive culture within the Club</li>
                 <li>To lead efforts ensuring that your internal Club culture is positive and to prioritise and foster wellbeing and balance within the Club;</li>
@@ -286,23 +297,23 @@
         </li>
     </ul>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
-        4.11 Executive positions that become vacant less than 1 month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be ‘Acting’ in the position, may not be the President or Treasurer, may not be a bank signatory and cannot act as Arc Membership Portal administrators.
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
+        4.11 Executive positions that become vacant less than 1 month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be ‘Acting’ in the position, may not be the President or Treasurer, and may not be a bank signatory.
     </h3>
 
-    <h2 class="text-4xl font-bold text-[#5b8ddb] mt-5">
+    <h2 class="text-3xl font-bold text-[#5b8ddb] mt-5">
         5. Meetings
     </h2>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         5.1 At least one (1) Returning Officer must be appointed by the Executive prior to a General Meeting at which an election will take place.
     </h3>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         5.2 The Returning Officers duties are as follows:
     </h3>
 
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
         <li>5.2.1 Returning Officer
             <ol class="list-decimal list-outside pl-10 mt-2 mb-2">
                 <li>Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management.</li>
@@ -320,35 +331,35 @@
         </li>
     </ul>
 
-    <h3 class="text-[25px] text-[#5b8ddb] font-bold">
+    <h3 class="text-[22px] text-[#5b8ddb] font-bold">
         Annual General Meetings
     </h3>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         5.3 There shall be one Annual General meeting every calendar year.
     </h3>
 
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         5.4 Notice in the form of an agenda for the Annual General Meeting shall be no less than fourteen (14) days, and is to be:
     </h3>
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
         <li>5.4.1 Given in writing to Arc;</li>
         <li>5.4.2 Given in writing to all Club members, or upon approval by Arc displayed in a way that will guarantee an acceptable level of exposure among Club members.</li>
     </ul>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         5.5 Quorum for the Annual General Meeting shall be:
     </h3>
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
         <li>5.5.1 Ten (10) or one half of the Club membership, whichever is the lesser, for all Clubs with less than 75 members, and for any other Club that has been active for less than 18 months from the time they first affiliated to Arc; or,</li>
         <li>5.5.2 Fifteen (15) ordinary members for all Clubs with more than 75 members that have been active for more than 18 months from the time they first affiliated to Arc. An ordinary member is defined as a member of the Club that did not serve as Executive in the current year.</li>
     </ul>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         5.6 At an Annual General Meeting:
     </h3>
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
         <li>5.6.1 Reports shall be presented by at least the President and the Treasurer;</li>
         <li>5.6.2 Full financial reports shall be presented and adopted;</li>
         <li>5.6.3 Constitutional amendments and other motions on notice may be discussed and voted upon.</li>
@@ -360,43 +371,43 @@
         </li>
     </ul>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         5.7 Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within fourteen (14) days of the meeting.
     </h3>
 
-    <h3 class="text-[25px] text-[#5b8ddb] font-bold">
+    <h3 class="text-[22px] text-[#5b8ddb] font-bold">
         Extraordinary General Meetings
     </h3>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         5.8 There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under clause 5.10.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         5.9 The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         5.10 To petition for an Extraordinary General Meeting, twenty (20) members or half of the Club membership, whichever is the lesser, must petition the Executive in writing.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         5.11 Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than fourteen (14) days.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         5.12 There shall be other general meetings of the Club as the Executive sees fit.
     </h3>
 
-    <h3 class="text-[25px] text-[#5b8ddb] font-bold">
+    <h3 class="text-[22px] text-[#5b8ddb] font-bold">
         Meetings
     </h3>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         5.13 General requirements for all meetings are as follows:
     </h3>
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
         <li>5.13.1 All voting at meetings shall be with a simple majority required for a resolution to be passed;</li>
         <li>5.13.2 Each member is entitled to one vote;</li>
         <li>5.13.3 Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;</li>
         <li>5.13.4 Only a Returning Officer, or in their absence, meeting Chair, may hold proxy votes.</li>
-        <li>5.13.5 Elections for Executive shall use the “optional preferential” system;</li>
+        <li>5.13.5 Elections for Executive shall use the Regular Single Transferable Vote (STV)/Instant Runoff Voting (IRV);</li>
         <li>5.13.6 In the case of equality of voting a countback will be held, with the candidate that received the most first preference votes winning. If there is another tie, the second preference votes will determine the winner, and so on, until a winner is determined;</li>
         <li>5.13.7 In the event a vote is completely and evenly matched, a re-vote will be held.</li>
         <li>5.13.8 Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;</li>
@@ -404,32 +415,32 @@
         <li>5.13.10 Motions not pertaining to Constitutional changes may be raised at the Meeting from any member in attendance.</li>
     </ul>
 
-    <h2 class="text-4xl font-bold text-[#5b8ddb] mt-5">
+    <h2 class="text-3xl font-bold text-[#5b8ddb] mt-5">
         6. Finance
     </h2>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         6.1 The club shall hold an account with a financial institution approved by Arc.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         6.2 The Executive must approve all accounts and expenditures for payment.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         6.3 All financial transactions shall require two signatures of members of the Executive.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         6.4 The club shall nominate three members of the Executive as possible signatories for the account, one of which must be the club Treasurer.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         6.5 The financial records of the club shall be open for inspection by Arc at all times.
     </h3>
 
-    <h2 class="text-4xl font-bold text-[#5b8ddb] mt-5">
+    <h2 class="text-3xl font-bold text-[#5b8ddb] mt-5">
         7. Dissolution
     </h2>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         7.1 Dissolution of the club will occur after the following conditions have been met:
     </h3>
-    <ul class="list-disc list-outside pl-5 text-xl leading-relaxed ml-5 mb-5">
+    <ul class="list-disc list-outside pl-5 text-lg leading-relaxed ml-5 mb-5">
         <li>7.1.1 An Extraordinary General Meeting is petitioned in writing as set out in 5.8;</li>
         <li>7.1.2 Procedures for notification as set out in 5.4 are followed, and the reasons for the proposed dissolution are included with the notification to Arc;</li>
         <li>7.1.3 Quorum for the meeting to dissolve the club shall be twenty (20) members or three-quarters of the club membership, whichever is the lesser;</li>
@@ -439,10 +450,10 @@
         <li>7.1.7 If the motion to dissolve is carried, Arc must be notified within fourteen (14) days.</li>
     </ul>
 
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         7.2 Dissolution of the club will also occur if the club has been financially and administratively inactive for a period of eighteen (18) months.
     </h3>
-    <h3 class="text-[25px] font-medium text-[#5b8ddb]">
+    <h3 class="text-[22px] font-medium text-[#5b8ddb]">
         7.3 On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the club which it perceives would be useful to other Arc-affiliated clubs. The club will be given twenty one (21) days to forward all relevant items to Arc before any action is instigated.
     </h3>
 </div>
