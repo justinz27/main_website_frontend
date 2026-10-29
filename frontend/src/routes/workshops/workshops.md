@@ -67,6 +67,10 @@
 -   Term 2 Week 11 - MATH3611 Revision Seminar:
     [slides](mathematics/2026/MATH36115705%20Seminar%202026%203.0.pdf),
     [recording](https://www.youtube.com/live/ymA1-y3p098)
+-   Term 3 Week 7 - Integration Workshop
+    [slides](mathematics/2026/2026_CPMSoc_Integration.pdf),
+    [worksheet](Workshop_Worksheets_CPMSoc_Math_2026.pdf),
+    [recording](https://www.youtube.com/watch?v=l1D-N2lT4sU)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
