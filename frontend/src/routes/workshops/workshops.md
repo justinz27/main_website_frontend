@@ -83,6 +83,11 @@
 -   Term 3 Week 9 - How FFT Works CPMSoc x ELSoc Talk
     [slides](mathematics/2026/How_FFT_Works_CPMSoc_x_ELSoc.pdf),
     [recording](https://www.youtube.com/live/Sg-MFikam5M)
+-   Term 3 Week 10 - Generating Function Workshop
+    [slides](mathematics/2026/Generating%20Function%20Workshop%20Slides.pdf),
+    [problems](mathematics/2026/Generating%20Function%20Worksheet.pdf),
+    [solutions](mathematics/2026/Generating%20Function%20Worksheet%20Solutions.pdf),
+    [recording](https://www.youtube.com/live/_G-xKxi5KdA)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
