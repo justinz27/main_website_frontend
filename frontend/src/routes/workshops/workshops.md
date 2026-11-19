@@ -7,6 +7,7 @@
 -   Term 2 Week 2 - Dynamic Programming II: [slides](programming/2026/t2w2.pdf), [problemset](https://vjudge.net/contest/821604)
 -   Term 2 Week 5 - DS++: [slides](programming/2026/t2w5.pdf), [problemset](https://vjudge.net/contest/826177), [code (template)](programming/2026/seg.cpp), [code (MNASS)](programming/2026/mnass.cpp)
 -   Term 3 Week 5 - Nonstandard Problems: [slides](programming/2026/t3w5.pdf)
+-   Term 3 Week 10 - COMP3121/3821 Revision Session: [3121 problems](programming/2026/COMP3121%20Questions%20-%20CPMSoc%20x%20CSESoc%20Revision%20Session%2026T3.pdf), [3121 solutions](programming/2026/COMP3121%20Solutions%20-%20CPMSoc%20x%20CSESoc%20Revision%20Session%2026T3.pdf), [3821 problems](programming/2026/COMP3821%20Questions%20-%20CPMSoc%20x%20CSESoc%20Revision%20Session%2026T3.pdf), [3821 solutions](programming/2026/COMP3821%20Solutions%20-%20CPMSoc%20x%20CSESoc%20Revision%20Session%2026T3.pdf),
 
 # Mathematics 2026
 -   Term 1 Week 2 - Intro to Quant:
