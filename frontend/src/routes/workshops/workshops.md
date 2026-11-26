@@ -90,8 +90,8 @@
     [solutions](mathematics/2026/Generating%20Function%20Worksheet%20Solutions.pdf),
     [recording](https://www.youtube.com/live/_G-xKxi5KdA)
 -   Term 3 Week 11 - MATH2701 Revision Seminar CPMSoc x MathSoc
-    [Algebra slides](mathematics/2026/2026_2701_Mathsoc_Analysis.pdf),
-    [Analysis slides](mathematics/2026/2026_2701_Mathsoc_Algebra.pdf),
+    [Algebra slides](mathematics/2026/2026_2701_Mathsoc_Algebra.pdf),
+    [Analysis slides](mathematics/2026/2026_2701_Mathsoc_Analysis.pdf),
     [Analysis recording](https://www.youtube.com/watch?v=ZVSiEUVVjnU)
 
 # Programming 2025
